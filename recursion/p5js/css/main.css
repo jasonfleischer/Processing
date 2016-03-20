@@ -1,0 +1,29 @@
+/*Jason Fleischer*/
+body{
+	background:#000;
+}
+#content{
+	background:#FFF;
+}
+#defaultCanvas0{
+	margin-bottom: -4px;/*fix*/
+}
+/* to center */
+.outer {
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+}
+.inner {
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+
+
+
