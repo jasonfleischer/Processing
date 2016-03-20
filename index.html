@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Jasn pg
-=======
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
@@ -9,8 +6,11 @@ Jasn pg
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <script> function load(){
+      document.getElementById("content").innerHTML='<object type="text/html" data="spinner-p5js/index.html" ></object>'; }
+</script>
   </head>
-  <body>
+  <body onload="load();">
+    <div id="content" style="width:500px, height="500px"></div>
   </body>
 </html>
->>>>>>> 8165648be002d35f8c0cea04ac94d7020ce16066
