@@ -7,12 +7,12 @@
     <script> function load(){
       if(window.location.hash) {
         var hash = window.location.hash.substring(1);
-        alert (hash);
         if(hash == "spinner"){
+            document.getElementById("body").innerHTML='<object type="text/html" style="width:100%; height:650px" data="spinner/spinner-p5js/index.html" ></object>'; 
+        }else{
             document.getElementById("body").innerHTML='<object type="text/html" style="width:100%; height:650px" data="spinner/spinner-p5js/index.html" ></object>'; 
         }
       } else {
-          alert ("hash not found");
           document.getElementById("body").innerHTML='<object type="text/html" style="width:100%; height:650px" data="spinner/spinner-p5js/index.html" ></object>'; 
       }
     }
