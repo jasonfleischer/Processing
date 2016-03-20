@@ -7,11 +7,13 @@ Contains processing sketches with the use of the [Processing language](https://p
 
 ###Spinner
 ##### [Preview sketch here](http://jasonfleischer.github.io/processing/#spinner)
+* Move mouse over sketch to interact
 * Contains a website (spinner/p5js/index.html) for viewing this sketch with the use of [P5.js](https://p5js.org/)
 * Reference: Processing for Visual Arts: Andrew Glassner
 
 ###Recursion
 ##### [Preview sketch here](http://jasonfleischer.github.io/processing/#recursion)
+* Click sketch to interact
 * Contains a website (spinner/p5js/index.html) for viewing this sketch with the use of [P5.js](https://p5js.org/)
 
 <br/>
