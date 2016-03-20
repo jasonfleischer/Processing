@@ -6,10 +6,17 @@ var t =0;
 var flip = true;
 
 function setup(){
+	var w = window,
+	    d = document,
+	    e = d.documentElement,
+	    g = d.getElementsByTagName('body')[0],
+	    x = w.innerWidth || e.clientWidth || g.clientWidth,
+	    y = w.innerHeight|| e.clientHeight|| g.clientHeight;
+	
 	var dim = 600;
-	canvas = createCanvas(dim,dim);
+	canvas = createCanvas(x,y);
 	canvas.parent('content');
-	document.getElementById("content").style.width = dim+"px";
+	document.getElementById("content").style.width = x+"px";
   smooth();
   noStroke();
   mouseX=width/2;

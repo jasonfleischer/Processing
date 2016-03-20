@@ -34,7 +34,7 @@ function draw() {
 }
 
 function recurse(p1, p2, d) {
-  if (d < 6) {
+  if (d < 4) {
     return;
   }
   fillRainbow(0, 2, 4, 127, 128);
