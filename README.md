@@ -1,6 +1,6 @@
 # Processing Sketches
 
-Contains Processing sketches. For more information about the Processing language go [here](https://processing.org/).
+Contains several Processing sketches. For more information about the Processing language go [here](https://processing.org/).
 
 ## Setup
 
