@@ -1,6 +1,6 @@
 # Processing Sketches
 
-Contains processing sketches with the use of the [Processing language](https://processing.org/)
+Contains Processing sketches. For more information about the Processing language go [here](https://processing.org/).
 
 ## Setup
 
@@ -21,4 +21,6 @@ Contains processing sketches with the use of the [Processing language](https://p
 * Click sketch to interact 
 * Contains a website (spinner/p5js/index.html) for viewing this sketch with the use of [P5.js](https://p5js.org/)
 
+
+Author: Jason Fleischer
 Website: http://jasonfleischer.github.io/website/
