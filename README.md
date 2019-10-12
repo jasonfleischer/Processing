@@ -5,8 +5,8 @@ Contains several Processing sketches. For more information about the Processing 
 ## Setup
 
 1. Download Processing [here](https://processing.org/download/)
-2. Open sketch file (.pde) with processing
-3. Run
+2. Open sketch file (.pde) with Processing
+3. Run sketch
 
 ## Sketches
 
